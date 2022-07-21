@@ -11,9 +11,32 @@ There are a TON of shared Google Colab notebooks floating around for doing text 
 * pytti-tools v0.10  by DigThatData and sportsracer
 * VQGAN+CLIP by remi_durant
 
+Image Super-resolution
 
-Lessons and classes from the Uber visualization team, focusing on the visualizations frameworks that we've built: 
+* Gigapixel AI by Topaz Labs (costs $99, promo code FRIEND15 for 15% off) <- voted #1
+* Real-ESRGAN  - (  ) <- voted #2
+* Real-ESRGAN Sber  - a nice fine tuned ESRGAN model
+* chaiNNer - node base tool that can batch process ESRGAN upscale and more
+* Cupscale - Windows GUI for ESRGAN
+* SuperRes Diffusion - Batch upscaling and super resolution with latent-diffusion
+* SwinIR - Hugging Face space
+* Upscale Model Database - big set of pretrained models for upscaling different types of content
+* Waifu2x () - designed for anime / manga
+* Waifu - newer and beats Waifu2x in quality
+* LetsEnhance.io- credit based web service for image super resolution
 
-* [deck.gl](http://deck.gl) - for large-scale WebGL visualizations;
-* [react-map-gl](https://uber.github.io/react-map-gl/) - React components for Mapbox GL;
-* [react-vis](https://uber.github.io/react-vis/) - A composable React charting library
+StyleGAN
+[2022/04/25]  modified by Diego Porres to use StyleGAN3
+ - train your own StyleGAN2 model from an image set you create
+ - Text-drive manipulation of StyleGAN imagery
+ - Styledreams With helpers
+ (CLIP+StyleGAN) by @ArYoMo ()
+ - can use these with Structured Dreaming
+ - BIG collection of models
+ - train a StyleGAN and do interpolation video by @dvsch
+ - ()
+ by Annas
+ by @nshepperd1 and @RiversHaveWings
+ by Eugenio Herrera and Rodrigo Mello
+ - animate path through StyleGAN latent space with music ()
+
