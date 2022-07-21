@@ -1,5 +1,3 @@
-# ai_art
-
 # Tools and Resources for AI Art
 
 Looking to get started with AI art? A good place to start is one of the    like Wombo or NightCafe. You can get a quick sense of how you can use words and phrases to guide image generation. Read up on    to improve your results. Then you can graduate up to using Google Colab notebooks linked below like Disco Diffusion.  If you have a good nVidia GPU of your own then you can also use    to run the most popular notebooks locally. If you want to train your own Ai models check out the page.
